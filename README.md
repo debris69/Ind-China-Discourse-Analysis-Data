@@ -15,6 +15,6 @@ This repository contains the tweets and the wordclouds generated from the data. 
   * Collated Tweets: Node_Collated.csv ==> Example: `A_Collated.csv`
   * Month-wise Tweets for Nodes: Node_MMM_Year.csv ==> Example: `A_Mar_2022.csv`
   * Top 80 Keywods from Collated Tweets: Node_Collated.png ==> Example: `A_Collated.png`
-  * Top 10 Keywords from Every Month: Node_MMM_Year.png ==> Example: `A_May.png`
   * Top 80 Keywords from Negative/Positive Tweets: Node_Sentiment_Collated.png ==> Example: `A_Positive_Collated.png`
+  * Top 10 Keywords from Every Month: Node_MMM_Year.png ==> Example: `A_May.png`
   * Top 10 Keywords from Negative/Positive Tweets for Every Month: Node_MMM_Year_Sentiment.png ==> Example: `A_Mar_2022_Negative.png`
